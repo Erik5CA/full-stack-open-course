@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
 participant user
 participant browser
@@ -14,3 +15,4 @@ participant server
     deactivate server
     Note right of server: Send data in JSON format
     Note right of browser: Redraw the notes
+```
