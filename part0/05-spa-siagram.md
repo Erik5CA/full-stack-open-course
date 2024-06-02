@@ -1,3 +1,6 @@
+## 0.5: Single page app diagram
+
+```mermaid
 sequenceDiagram
 participant browser
 participant server
@@ -23,3 +26,4 @@ participant server
 
     Note right of server: The server sends JSON data
     Note right of browser: The browser draw the data
+```
