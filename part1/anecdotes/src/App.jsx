@@ -32,7 +32,6 @@ const App = () => {
     return anecdoteIndex;
   };
 
-  findAnectodeWithMaxVotes();
   return (
     <div>
       <h1>Anecdote of the day</h1>
