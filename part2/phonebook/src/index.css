@@ -1,0 +1,17 @@
+.message {
+  background-color: rgba(0, 128, 0, 0.384);
+  color: green;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.error {
+  background-color: rgba(128, 0, 0, 0.384);
+  color: rgb(128, 0, 0);
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
